@@ -1,0 +1,23 @@
+@media screen {
+    body {
+        text-align: center;
+        background-image: url(tboi\ fds.webp);
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-attachment: fixed;
+    }
+    img {
+        max-width: 50%;
+        height: auto;
+    }
+    section {
+        border:10px;
+        border-style: groove;
+        border-radius: 3cap;
+        background-color: rgb(56, 29, 29);
+    }
+    header{
+        background-color: rgb(111, 53, 53);
+        border-radius: 10cap;
+    }
+} 
